@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Did some edits from Github
 
-Another change to get it with pull
+Another change to get it with pull.
